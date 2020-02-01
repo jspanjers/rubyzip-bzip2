@@ -1,9 +1,9 @@
 # rubyzip-bzip2
 
 [![Gem Version](https://badge.fury.io/rb/rubyzip-bzip2.svg)](http://badge.fury.io/rb/rubyzip-bzip2)
-[![Build Status](https://secure.travis-ci.org/rubyzip/rubyzip-bzip2.svg)](http://travis-ci.org/rubyzip/rubyzip-bzip2)
-[![Code Climate](https://codeclimate.com/github/rubyzip/rubyzip-bzip2.svg)](https://codeclimate.com/github/rubyzip/rubyzip-bzip2)
-[![Coverage Status](https://img.shields.io/coveralls/rubyzip/rubyzip-bzip2.svg)](https://coveralls.io/r/rubyzip/rubyzip-bzip2?branch=master)
+[![Build Status](https://secure.travis-ci.org/jspanjers/rubyzip-bzip2.svg)](http://travis-ci.org/jspanjers/rubyzip-bzip2)
+[![Code Climate](https://codeclimate.com/github/jspanjers/rubyzip-bzip2.svg)](https://codeclimate.com/github/jspanjers/rubyzip-bzip2)
+[![Coverage Status](https://img.shields.io/coveralls/jspanjers/rubyzip-bzip2.svg)](https://coveralls.io/r/jspanjers/rubyzip-bzip2?branch=master)
 
 The rubyzip-bzip2 gem provides an extension of the rubyzip gem for reading zip files
 compressed with bzip2 compression.
